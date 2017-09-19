@@ -1,15 +1,23 @@
 {
   "name": "gitbook-plugin-indent-include",
-  "version": "1.0.24",
+  "version": "1.0.25",
   "description": "include a file and indent the text.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["gitbook", "plugin", "indent", "include"],
   "author": "wiley",
-  "license": "ISC",
+  "license": "MIT",
   "engines": {
     "gitbook": ">=2.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wileyday/gitbook-plugin-indent-include.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wileyday/gitbook-plugin-indent-include/issues"
+  },
+  "homepage": "https://github.com/wileyday/gitbook-plugin-indent-include#readme"
 }
