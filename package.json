@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-indent-include",
-  "version": "1.0.23",
+  "version": "1.0.24",
   "description": "include a file and indent the text.",
   "main": "index.js",
   "scripts": {
